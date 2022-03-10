@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ApeTask</string>
+    <string name="please_check_internet_connection">Please check internet connection</string>
+    <string name="please_wait">Please Wait…</string>
+    <string name="error">Error</string>
+
+</resources>
